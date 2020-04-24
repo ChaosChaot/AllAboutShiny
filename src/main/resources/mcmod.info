@@ -1,0 +1,16 @@
+[
+{
+  "modid": "allaboutshiny",
+  "name": "All About Shiny",
+  "description": "Shiny. Shiny.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ChaosChaot"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
